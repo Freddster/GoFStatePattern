@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Del1", "GoFStatePattern\Del1.csproj", "{C95D0E05-208D-4B19-9E57-B3B805626F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Del2", "Del2\Del2.csproj", "{97911162-499F-4468-A96E-980E6A2F3CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Del5", "Del5\Del5.csproj", "{DA77E3EA-A0F9-4DA1-98B5-1D00CE88DB4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95D0E05-208D-4B19-9E57-B3B805626F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95D0E05-208D-4B19-9E57-B3B805626F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95D0E05-208D-4B19-9E57-B3B805626F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95D0E05-208D-4B19-9E57-B3B805626F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97911162-499F-4468-A96E-980E6A2F3CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97911162-499F-4468-A96E-980E6A2F3CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97911162-499F-4468-A96E-980E6A2F3CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97911162-499F-4468-A96E-980E6A2F3CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA77E3EA-A0F9-4DA1-98B5-1D00CE88DB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA77E3EA-A0F9-4DA1-98B5-1D00CE88DB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA77E3EA-A0F9-4DA1-98B5-1D00CE88DB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA77E3EA-A0F9-4DA1-98B5-1D00CE88DB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
